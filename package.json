@@ -1,0 +1,12 @@
+{
+  "name": "yarn-node-sass-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:moretti/yarn-node-sass-bug.git",
+  "author": "Paolo Moretti",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.5.3",
+    "paper": "https://github.com/paperjs/paper.js.git#15b8bbd"
+  }
+}
